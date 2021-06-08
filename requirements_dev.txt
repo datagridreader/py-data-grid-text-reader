@@ -1,0 +1,7 @@
+pip==21.1.2
+psycopg2-binary==2.8.6
+pytest==6.2.4
+snowflake-sqlalchemy==1.2.4
+sqlalchemy==1.4.17
+twine==3.4.1
+wheel==0.36.2
